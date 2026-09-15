@@ -1,0 +1,15 @@
+import { cn } from "@/lib/utils";
+
+type SectionProps = React.ComponentProps<"section">;
+
+export function Section({ className, ...props }: SectionProps) {
+  return (
+    <section
+      className={cn(
+        "border-t border-border/70 py-16 sm:py-20 lg:py-24",
+        className,
+      )}
+      {...props}
+    />
+  );
+}
