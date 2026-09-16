@@ -1,0 +1,1 @@
+Pricing cards use inline responsive SVG crew illustrations: 2 movers with one large box, 3 movers with a shared large box plus one mover carrying a small box, and 4 movers as two pairs carrying large boxes.
