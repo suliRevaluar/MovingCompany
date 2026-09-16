@@ -1,0 +1,1 @@
+Artwork centered above each pricing plan title and scales responsively.
