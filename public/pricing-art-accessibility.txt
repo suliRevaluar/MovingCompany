@@ -1,0 +1,1 @@
+Each crew SVG has an accessible label describing its mover count.
