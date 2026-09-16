@@ -1,0 +1,1 @@
+2 movers: shared large box. 3 movers: two share large box, third carries small box. 4 movers: two pairs each share large box.

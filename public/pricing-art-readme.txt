@@ -1,0 +1,1 @@
+Responsive SVG crew illustrations replace the previous pricing-card truck icons.
